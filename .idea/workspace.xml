@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="283392b4-4b0d-4518-9915-a41472344d88" name="Default" comment="Initial commit of my website with directory navigation 1.0 complete.">
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.github/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.github/SUPPORT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.idea/myWebsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/.travis/github_deploy_key.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/js/vendor/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/js/vendor/modernizr-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/dist/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/gulpfile.babel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/modernizr-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/img/facebook-logo-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/img/gmail (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/img/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/img/linkedin-logo-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/src/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/test/file_content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myWebsite/test/file_existence.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myWebsite/src/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../myWebsite/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-99">
+              <caret line="59" column="10" lean-forward="true" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              <folding>
+                <element signature="e#1287#1294#1" expanded="true" />
+                <element signature="e#1545#1552#1" expanded="true" />
+                <element signature="e#1795#1802#1" expanded="true" />
+                <element signature="e#2064#2071#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myWebsite/src/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open</find>
+      <find>closeNav</find>
+      <find>closeProjects</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>closeMain</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../myWebsite" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/gmail.svg" />
+        <option value="$PROJECT_DIR$/src/css/main.css" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../myWebsite/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1750" />
+    <option name="height" value="1250" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWebsite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myWebsite" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kahu3362\WebstormProjects\firstWebsite\src\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="283392b4-4b0d-4518-9915-a41472344d88" name="Default" comment="" />
+      <created>1528389984417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528389984417</updated>
+      <workItem from="1528389986360" duration="30322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30322000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16894531" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32973504" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit of my website with directory navigation 1.0 complete." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of my website with directory navigation 1.0 complete." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/gmail.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/src/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/src/humans.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/src/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myWebsite/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="59" column="10" lean-forward="true" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding>
+            <element signature="e#1287#1294#1" expanded="true" />
+            <element signature="e#1545#1552#1" expanded="true" />
+            <element signature="e#1795#1802#1" expanded="true" />
+            <element signature="e#2064#2071#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
